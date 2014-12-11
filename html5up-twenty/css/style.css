@@ -353,10 +353,17 @@
 				background: #da83ae;
 				color: white;
 			}
+						.icon.circle.fa-linkedin {
+				background: #4875B4;
+				color: white;
+			}
 
-				.icon.circle.fa-dribbble:hover {
-					background: #df93b8;
+				.icon.circle.fa-linkedin:hover {
+					background: #4875B4;
 				}
+
+
+F
 
 		.icon.featured {
 			cursor: default;
@@ -376,7 +383,7 @@
 		}
 
 /* List */
-
+F
 	ol.default {
 		list-style: decimal;
 		padding-left: 1.25em;
